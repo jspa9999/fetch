@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.Pic{
+  width:350px ;
+  height: 350px;
+  object-fit: contain;
+}
+.Products{
+ display:flex;
+ flex-direction: row;
+ flex-wrap:wrap ;
+}
+.productDiv{
+  border: 1px solid black;
+  width: 250px;
+  height: 320px;
+  margin: 10px;
+  border-radius: 20px;
+  padding: 10px;
+}
